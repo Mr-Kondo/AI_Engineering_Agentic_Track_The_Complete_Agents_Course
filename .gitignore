@@ -206,6 +206,13 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-agents/1_foundations/me/
 original*/
 community_contributions*/
+
+2_openai*/
+3_crew*/
+4_langgraph*/
+5_autogen*/
+6_mcp*/
+guides*/
+setup*/
